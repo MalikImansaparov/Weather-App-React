@@ -7,10 +7,10 @@ Weather app that implements openweathermap api to get the name of the cities and
 - Get the climatoligcal properties of the selected city
 
 ### Built With
-  -react,
-  -bootstrap
-  -node-sass,
- -cra-template,
+- React
+- Bootstrap
+- Node-Sass
+- CRA-template
 
 ## Installation
 ### Prerequisites
