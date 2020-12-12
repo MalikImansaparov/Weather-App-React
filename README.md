@@ -1,2 +1,42 @@
-# Weather-App-React.js
-Learn the weather in your city
+<!-- ABOUT THE PROJECT -->
+## About The Project
+Weather app that implements openweathermap api to get the name of the cities and OpenWeather API to get the climatological properties of the selected city.
+
+### Features
+- Search city by name
+- Get the climatoligcal properties of the selected city
+
+### Built With
+  -react,
+  -bootstrap
+  -node-sass,
+ -cra-template,
+
+## Installation
+### Prerequisites
+- Webpack > v4.43.0
+- npm
+
+### Setup
+Use the [git](https://git-scm.com/downloads) to clone the project to your local machine.
+```sh
+$ git clone https://github.com/kalavhan/weather-app-js.git
+```
+
+Navigate to the extracted folder
+```sh 
+cd weather-app-js
+```
+
+Install the dependencies and modules
+```sh
+$ npm install
+```
+
+### Usage
+```sh
+$ npm start
+```
+
+
+
