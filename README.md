@@ -20,12 +20,12 @@ Weather app that implements openweathermap api to get the name of the cities and
 ### Setup
 Use the [git](https://git-scm.com/downloads) to clone the project to your local machine.
 ```sh
-$ git clone https://github.com/kalavhan/weather-app-js.git
+$ git clone https://github.com/MalikImansaparov/Weather-App-React.git
 ```
 
 Navigate to the extracted folder
 ```sh 
-cd weather-app-js
+cd weather-app-react
 ```
 
 Install the dependencies and modules
