@@ -44,6 +44,7 @@ body {
 }
 
 .form {
+  font-size: 15px;
   height: 55vh;
   padding-top: 100px;
   padding-left: 50px;
@@ -75,6 +76,7 @@ input::-moz-placeholder {
 }
 
 button {
+  font-size: 10px;
   border: 2px solid #103a65;
   border-bottom: 4px solid #103a65;
   padding: 4px 10px;
@@ -99,12 +101,12 @@ button:active {
   top: 2px;
 }
 
-.info h2 {
+.info h1 {
   font-size: 3em;
   color: #fff;
 }
 
-.info p {
+.info h3{
   color: #e4e4e4;
   font-weight: bold;
 }
