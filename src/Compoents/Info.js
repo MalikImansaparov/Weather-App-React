@@ -3,8 +3,8 @@ import '../App.css'
 
 const Info = () => (
             <div>
-                <h1>Weather.js</h1>
-                <h3>Learn the weather in your city</h3>
+                <h2>Weather.js</h2>
+                <h4>Learn the weather in your city</h4>
             </div>
     )
 export default Info

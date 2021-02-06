@@ -101,12 +101,12 @@ button:active {
   top: 2px;
 }
 
-.info h1 {
+.info h2 {
   font-size: 3em;
   color: #fff;
 }
 
-.info h3{
+.info h4{
   color: #e4e4e4;
   font-weight: bold;
 }
