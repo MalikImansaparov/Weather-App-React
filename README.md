@@ -1,10 +1,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-Weather app that implements openweathermap api to get the name of the cities and OpenWeather API to get the climatological properties of the selected city.
+Weather app that implements open weather map api to get the name of the cities and OpenWeather API to get the
+ climatological properties of the selected city.
 
 ### Features
 - Search city by name
-- Get the climatoligcal properties of the selected city
+- Get the climatological properties of the selected city
 
 ### Built With
 - React
