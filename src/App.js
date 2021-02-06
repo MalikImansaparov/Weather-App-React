@@ -1,7 +1,7 @@
 import React,{Component} from 'react';
 import './App.css'
 import 'bootstrap/dist/css/bootstrap.min.css'
-import Info from "./Compoents/info";
+import Info from "./Compoents/Info";
 import Form from "./Compoents/Form";
 import Weather from "./Compoents/Weather";
 
